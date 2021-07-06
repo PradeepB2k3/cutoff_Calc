@@ -13,7 +13,7 @@ button.addEventListener("click",()=>{
     cal=mathsmark+(chemmark/2)+(phymark/2);
 
 let newElement=document.createElement("div");
-newElement.innerHTML=`hello ${name}, your cutoff mark is ${cal}`;
+newElement.innerHTML=`hello ${name}, your cutoff mark is ${cal}/200`;
 add.appendChild(newElement)
 newElement.classList.add("btnclick")
 })
