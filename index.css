@@ -1,0 +1,11 @@
+.btnclick{
+ background-color: lightsalmon;
+ color:black;
+text-shadow: 0px 1px red;
+ font-size: 18px;
+ box-sizing: border-box;
+ border-radius: 6px;
+}
+.bg-part{
+ background: linear-gradient(rgb(236, 230, 230,.3),rgb(243, 241, 241,.3)),url(./red-bg.jpeg);
+}
